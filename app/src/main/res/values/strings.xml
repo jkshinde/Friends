@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string-array name="Type">
+        <item>Friend</item>
+        <item>Best Friend</item>
+        <item>Worst Friend</item>
+    </string-array>
+
+</resources>
