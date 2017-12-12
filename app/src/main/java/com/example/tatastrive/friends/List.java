@@ -46,6 +46,7 @@ public class List extends AppCompatActivity implements AdapterView.OnItemClickLi
 
 class Customadapter extends CursorAdapter
 {
+    
 
     public Customadapter(Context context, Cursor c) {
         super(context, c,0);
